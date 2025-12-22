@@ -191,31 +191,3 @@ Replace `<branch-name>` with the name of the branch you are working on (e.g., `n
 10.  **Monitor the pipeline**: After pushing the changes, the pipeline will be triggered automatically. You can monitor the progress of the pipeline and check for any issues in the CI/CD interface.
 
 11.  **Merge Request**: If the pipeline is successful and the changes are on a feature branch, create a Merge Request to merge the changes into the main branch. If the pipeline fails, investigate the issue, fix it, and push the changes again to re-trigger the pipeline. Once the merge request is created, your team can review the changes, provide feedback, and approve or request changes. After the merge request has been reviewed and approved, it can be merged into the main branch to apply the changes to the production infrastructure.
-
-# Author
-
-I’m Vladimir Mikhalev, the [Docker Captain](https://www.docker.com/captains/vladimir-mikhalev/), but my friends can call me Valdemar.
-
-🌐 My [website](https://www.heyvaldemar.com/) with detailed IT guides\
-🎬 Follow me on [YouTube](https://www.youtube.com/channel/UCf85kQ0u1sYTTTyKVpxrlyQ?sub_confirmation=1)\
-🐦 Follow me on [Twitter](https://twitter.com/heyValdemar)\
-🎨 Follow me on [Instagram](https://www.instagram.com/heyvaldemar/)\
-🐘 Follow me on [Mastodon](https://mastodon.social/@heyvaldemar)\
-🧊 Follow me on [Bluesky](https://bsky.app/profile/heyvaldemar.bsky.social)\
-🎸 Follow me on [Facebook](https://www.facebook.com/heyValdemarFB/)\
-🎥 Follow me on [TikTok](https://www.tiktok.com/@heyvaldemar)\
-💻 Follow me on [LinkedIn](https://www.linkedin.com/in/heyvaldemar/)\
-🐈 Follow me on [GitHub](https://github.com/heyvaldemar)
-
-# Communication
-
-👾 Chat with IT pros on [Discord](https://discord.gg/AJQGCCBcqf)\
-📧 Reach me at ask@sre.gg
-
-# Give Thanks
-
-💎 Support on [GitHub](https://github.com/sponsors/heyValdemar)\
-🏆 Support on [Patreon](https://www.patreon.com/heyValdemar)\
-🥤 Support on [BuyMeaCoffee](https://www.buymeacoffee.com/heyValdemar)\
-🍪 Support on [Ko-fi](https://ko-fi.com/heyValdemar)\
-💖 Support on [PayPal](https://www.paypal.com/paypalme/heyValdemarCOM)
